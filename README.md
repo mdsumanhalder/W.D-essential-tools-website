@@ -1,21 +1,48 @@
 # W.D-essential-tools-website
 
+**WEB DESIGN IDEAS 
+
+AWWWARDS :https://www.awwwards.com/inspiration/search?text=PORTFOLIO%20FOR%20WE
+DRIBBLE : https://dribbble.com/search
+
+**EXERCISE AND ALGORITHMS
+
+LEETCODE.COM : https://leetcode.com/
+EXERCISM.IO : https://exercism.io/
+CODEWARS.COM : https://www.codewars.com/
+
 **WEB HOSTING:
 
-https://www.netlify.com/ -FORENTEND
-https://www.heroku.com/ -BACKEND
+FORENTEND: https://www.netlify.com/ 
+BACKEND: https://www.heroku.com/ 
+
+**FREELANCING 
+
+UPWORK : https://www.upwork.com/
+FREELANCER: https://www.freelancer.com/
+FIVERR: https://www.fiverr.com/
+
+**LEARNING CODE
+
+THE ODIN PROJECT :https://www.theodinproject.com/
+FREECODECAMP: https://www.freecodecamp.org/
+PRACTICE CODE: https://mem.dev/
 
 **BACKGROUND VIDEO
 
-https://undraw.co/illustrations -ILLUSTRATOION VIDEO
-https://coverr.co/
+ILLUSTRATOION VIDEO :https://undraw.co/illustrations 
+NORMAL VIDEO: https://coverr.co/
 
 **ICONS AND FONTS
 
-https://fontawesome.com/icons?d=gallery -FONT AWESOME FRO ICON
-https://www.flaticon.com/ - FOR ICON
+FONT AWESOME FRO ICON: https://fontawesome.com/icons?d=gallery 
+ FOR ICON: https://www.flaticon.com/ 
+ANIMATED ICON: https://icons8.com/animated-icons -
 
+**MOCKUPS TOOLS
 
+FIGMA: https://www.figma.com/files/recent
+ZEPLIN: https://zeplin.io/
 
 **GENERATORS:
 
